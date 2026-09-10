@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.1.0"
   latestRelease: "v2.1.0"
   latestPrerelease: "v1.1.0-0"
-  collectedAt: 2026-09-10T21:06:08Z
+  collectedAt: 2026-09-10T22:47:40Z
 timeline:
   created: 2018-07-02
   lastCommit: 2025-11-13
@@ -86,7 +86,7 @@ total:
   commit: 640
 ---
 path: /home/runner/.x-repo/github.com/mixn/carbon-now-cli
-collectedAt: 2026-09-10T21:06:12Z
+collectedAt: 2026-09-10T22:47:44Z
 loc:
   Json:
     code: 14806
