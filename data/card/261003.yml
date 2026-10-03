@@ -207,4 +207,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
-{"id":190390097,"author":{"login":"mixn","id":672237,"node_id":"MDQ6VXNlcjY3MjIzNw==","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOCE_Ozs4LWR9R","tag_name":"v2.1.0","target_commitish":"master","name":"v2.1.0 \ud83c\udf89","draft":false,"immutable":false,"prerelease":false,"created_at":"2024-12-12T09:48:28Z","updated_at":"2024-12-12T09:54:56Z","published_at":"2024-12-12T09:54:56Z","assets":[],"body":"- `--settings` flag\r\n- Concurrency for easier batch processing (#212)\r\n- Automatic image titles (or via `titleBar`) (#206)\r\n- Improved DX, performance & docs\r\n- Bug fixes (#90, #275, #207, #175)\r\n\r\nhttps://github.com/mixn/carbon-now-cli/compare/v2.1.0-rc.1...v2.1.0"}
